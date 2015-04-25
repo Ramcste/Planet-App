@@ -1,0 +1,12 @@
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\bin\Debug\PlanetApp.exe.config
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\bin\Debug\PlanetApp.exe
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\bin\Debug\PlanetApp.pdb
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\obj\Debug\PlanetApp.csprojResolveAssemblyReference.cache
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\obj\Debug\PlanetApp.Form1.resources
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\obj\Debug\PlanetApp.Properties.Resources.resources
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\obj\Debug\PlanetApp.csproj.GenerateResource.Cache
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\obj\Debug\PlanetApp.exe
+H:\Workspace\Visual Studio 2013\Projects\PlanetApp\PlanetApp\obj\Debug\PlanetApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PlanetApp\PlanetApp\bin\Debug\PlanetApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PlanetApp\PlanetApp\obj\Debug\PlanetApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\PlanetApp\PlanetApp\obj\Debug\PlanetApp.pdb
